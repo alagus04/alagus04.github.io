@@ -1,0 +1,18 @@
+{
+"projects": [
+    {
+        "title": "Glaucoma Detection ML Model",
+        "organization-name": "AI and Eye",
+        "description": "Working with a selected group of people comprising of the AI Team to develop one and two-stage machine learning models to predict if a person has glaucoma and if so, what stage it is at.",
+        "gh-link": "https://github.com/alagus04/coming-soon",
+        "date": "Feb. 2023 - Present"
+    },
+    {
+        "title": "Online Marketplace for College Students",
+        "organization-name": "USWAP",
+        "description": "CLI tool that allows teachers and parents to generate picture cards for kids to use with colored snap-it blocks from images online. Made for my younger sister using Python.",
+        "gh-link": "https://github.com/estaudere/snapit-card-generator",
+        "date": "July 2022"
+    }
+]
+}
