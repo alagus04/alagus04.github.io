@@ -1,0 +1,24 @@
+{
+    "socials": [
+        {
+            "link": "mailto:neha.desaraju@gmail.com",
+            "icon": "fa fa-envelope"
+        },
+        {
+            "link": "https://github.com/estaudere",
+            "icon": "fa-brands fa-github"
+        },
+        {
+            "link": "https://www.linkedin.com/in/neha-desaraju/",
+            "icon": "fa-brands fa-linkedin"
+        },
+        {
+            "link": "https://medium.com/@nehadesaraju",
+            "icon": "fa-brands fa-medium"
+        },
+        {
+            "link": "/resume.pdf",
+            "icon": "fa fa-file-pdf"
+        }
+    ]
+}

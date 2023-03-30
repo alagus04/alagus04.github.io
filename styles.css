@@ -16,6 +16,7 @@ head {
     clip-path: circle(50%);
     margin-left:auto;
     margin-right: auto;
+    
 }
 .portrait img{
     width:100%
@@ -25,13 +26,22 @@ body {
     color: #171616;
 }
 .home {
-    max-width: 550px;
+    max-width: 850px;
     text-align: center;
+}
+.socials {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    height:0.5rem;
+    font-size: 1.5em;
 }
 h1, h4 {
     letter-spacing: 0.03rem;
     margin-top: 0rem;
     margin-bottom: 1rem;
+    text-shadow: 1px 1px 1.5px black;
+
 }
 
 h3 {
