@@ -68,4 +68,25 @@ h3 {
     transition: 0.1s;
     margin-left:auto;
     margin-right: auto;
+    border-radius: 20px;
   }
+
+  div#banner { 
+    position: absolute; 
+    top: 0; 
+    left: 0; 
+    background-color: #DDEEEE; 
+    width: 100%; 
+  }
+  div#banner-content { 
+    width: 800px; 
+    margin: auto; 
+    padding: 10px; 
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    /*(border: 1px solid #000;*/
+  }
+  /*/div#main-content { 
+    padding-top: 70px;
+ }/*
