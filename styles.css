@@ -87,6 +87,56 @@ h3 {
     text-align: center;
     /*(border: 1px solid #000;*/
   }
+  /* Timeline */
+#timeline {
+    width: 80%;
+    max-width: 900px;
+    margin: 50px auto;
+    position: relative;
+    border-left: 4px solid #000000;
+    padding-left: 30px;
+}
+
+.timeline-item {
+    position: relative;
+    margin-bottom: 50px;
+    padding-left: 30px;
+}
+
+.timeline-dot {
+    position: absolute;
+    left: -12px;
+    top: 0;
+    width: 20px;
+    height: 20px;
+    background-color: #000000;
+    border-radius: 50%;
+}
+
+.timeline-date {
+    font-size: 0.9em;
+    color: #777;
+    margin-bottom: 10px;
+}
+
+.timeline-content {
+    background-color: #fff;
+    padding: 15px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.timeline-content h2 {
+    margin: 0 0 10px;
+    font-size: 1.5em;
+    color: #000000
+}
+.company-logo {
+    width: 150px;
+    height: auto;
+    margin-bottom: 10px;
+    display: block;
+}
   /*/div#main-content { 
     padding-top: 70px;
  }/*
